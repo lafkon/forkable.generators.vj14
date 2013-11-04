@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.44056698"
-     inkscape:cx="519.067"
-     inkscape:cy="1089.7689"
+     inkscape:zoom="0.23693282"
+     inkscape:cx="250.91165"
+     inkscape:cy="760.70995"
      inkscape:document-units="px"
      inkscape:current-layer="g3916"
      showgrid="false"
@@ -159,21 +159,6 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:groupmode="layer"
-     id="g4498"
-     layerid="element"
-     inkscape:label="XX_SLA_REFERENZ"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <image
-       y="0.44870001"
-       x="0"
-       id="image4580"
-       xlink:href="file:///home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/o/free/var/vj14_offset_MASTER.png"
-       height="1509"
-       width="1073" />
-  </g>
-  <g
      style="display:none"
      inkscape:label="XX_SHOOT-000"
      layerid="element"
@@ -181,13 +166,13 @@
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../jpg/IMG_6054.JPG"
-       xlink:href="../jpg/IMG_6054.JPG"
-       width="1091.1293"
-       height="1636.6936"
-       id="image4589"
+       
+       xlink:href="../../../i/free/jpg/IMG_6054.JPG"
+       y="-15.144903"
        x="-11.546"
-       y="-15.144903" />
+       id="image4589"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -196,15 +181,15 @@
      inkscape:label="XX_TISCH-001"
      style="display:none;filter:url(#filter4716)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/jpg/Suffragets_on_hike_to_boston.jpg"
+       
        xlink:href="../../../i/free/jpg/Suffragets_on_hike_to_boston.jpg"
-       clip-path="url(#clipPath4882)"
-       y="34.093834"
-       x="53.627285"
-       id="image10-5"
-       height="784.86505"
+       transform="matrix(0.99994248,0.01072584,-0.01072584,0.99994248,0,0)"
        width="996.33337"
-       transform="matrix(0.99994248,0.01072584,-0.01072584,0.99994248,0,0)" />
+       height="784.86505"
+       id="image10-5"
+       x="53.627285"
+       y="34.093834"
+       clip-path="url(#clipPath4882)" />
   </g>
   <g
      style="display:none;filter:url(#filter4716)"
@@ -213,15 +198,15 @@
      id="g4886"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/jpg/Suffragets_on_hike_to_boston.jpg"
+       
        xlink:href="../../../i/free/jpg/Suffragets_on_hike_to_boston.jpg"
-       transform="matrix(0.99994248,0.01072584,-0.01072584,0.99994248,0,0)"
-       width="996.33337"
-       height="784.86505"
-       id="image4888"
-       x="53.627285"
+       clip-path="url(#clipPath4915)"
        y="34.093834"
-       clip-path="url(#clipPath4915)" />
+       x="53.627285"
+       id="image4888"
+       height="784.86505"
+       width="996.33337"
+       transform="matrix(0.99994248,0.01072584,-0.01072584,0.99994248,0,0)" />
   </g>
   <g
      style="display:inline"
@@ -230,15 +215,15 @@
      id="g3763"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/jpg/Suffragets_on_hike_to_boston.jpg"
+       
        xlink:href="../../../i/free/jpg/Suffragets_on_hike_to_boston.jpg"
-       transform="matrix(0.99994248,0.01072584,-0.01072584,0.99994248,0,0)"
-       width="996.33337"
-       height="784.86505"
-       id="image3765"
-       x="53.627285"
+       clip-path="url(#clipPath4882)"
        y="34.093834"
-       clip-path="url(#clipPath4882)" />
+       x="53.627285"
+       id="image3765"
+       height="784.86505"
+       width="996.33337"
+       transform="matrix(0.99994248,0.01072584,-0.01072584,0.99994248,0,0)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -247,15 +232,15 @@
      inkscape:label="TISCH-002"
      style="display:inline;filter:url(#filter4716)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/jpg/Suffragets_on_hike_to_boston.jpg"
+       
        xlink:href="../../../i/free/jpg/Suffragets_on_hike_to_boston.jpg"
-       clip-path="url(#clipPath4915)"
-       y="34.093834"
-       x="53.627285"
-       id="image3769"
-       height="784.86505"
+       transform="matrix(0.99994248,0.01072584,-0.01072584,0.99994248,0,0)"
        width="996.33337"
-       transform="matrix(0.99994248,0.01072584,-0.01072584,0.99994248,0,0)" />
+       height="784.86505"
+       id="image3769"
+       x="53.627285"
+       y="34.093834"
+       clip-path="url(#clipPath4915)" />
   </g>
   <g
      style="display:none;filter:url(#filter4716)"
@@ -264,15 +249,15 @@
      id="g3755"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/Chiricahua_Apaches_Four_Months_After_Arriving_at_Carlisle.png"
+       
        xlink:href="../../../i/free/png/Chiricahua_Apaches_Four_Months_After_Arriving_at_Carlisle.png"
-       transform="matrix(1.1316098,0,0,1.1316098,-54.696193,-26.887206)"
-       clip-path="url(#clipPath3972)"
-       width="752.07336"
-       height="603.22552"
-       id="image3906"
+       y="115.43201"
        x="89.324432"
-       y="115.43201" />
+       id="image3906"
+       height="603.22552"
+       width="752.07336"
+       clip-path="url(#clipPath3972)"
+       transform="matrix(1.1316098,0,0,1.1316098,-54.696193,-26.887206)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -281,15 +266,15 @@
      inkscape:label="XX_TISCH-003"
      style="display:none;filter:url(#filter4716)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/Chiricahua_Apaches_Four_Months_After_Arriving_at_Carlisle.png"
+       
        xlink:href="../../../i/free/png/Chiricahua_Apaches_Four_Months_After_Arriving_at_Carlisle.png"
-       y="115.43201"
-       x="89.324432"
-       id="image3918"
-       height="603.22552"
-       width="752.07336"
+       transform="matrix(1.1316098,0,0,1.1316098,-54.696193,-26.887206)"
        clip-path="url(#clipPath3940)"
-       transform="matrix(1.1316098,0,0,1.1316098,-54.696193,-26.887206)" />
+       width="752.07336"
+       height="603.22552"
+       id="image3918"
+       x="89.324432"
+       y="115.43201" />
   </g>
   <g
      style="display:none"
@@ -1076,7 +1061,7 @@
      id="g3697"
      layerid="element"
      inkscape:label="XX_RAHMEN-001"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        style="color:#000000;fill:#ffffff;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"

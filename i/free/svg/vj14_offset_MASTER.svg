@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.38275737"
-     inkscape:cx="467.60994"
-     inkscape:cy="487.79356"
+     inkscape:zoom="0.17502722"
+     inkscape:cx="23.186846"
+     inkscape:cy="619.02575"
      inkscape:document-units="px"
-     inkscape:current-layer="g4623"
+     inkscape:current-layer="g4587"
      showgrid="false"
      inkscape:window-width="1018"
      inkscape:window-height="709"
@@ -3440,7 +3440,7 @@
      inkscape:groupmode="layer"
      id="XX_referenz"
      layerid="XX_referenz"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
        style="color:#000000;fill:#f2f2f2;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -3450,58 +3450,13 @@
   </g>
   <g
      style="display:inline"
-     inkscape:label="OFFSET-001"
-     layerid="element"
-     id="g4458"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
-    <image
-       transform="matrix(0,1,-1,0,0,0)"
-       width="1636.6936"
-       height="1091.1293"
-       xlink:href="file:///home/christoph/0000_Projekte/CON_VJ14/Artwork/131017--Tisch/Footage/IMG_6054.JPG"
-       id="image4460"
-       x="-17.2458"
-       y="-1077.5938" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g4498"
-     layerid="element"
-     inkscape:label="XX_SLA_REFERENZ"
-     style="display:none">
-    <image
-       y="0.44870001"
-       x="0"
-       id="image4580"
-       xlink:href="file:///home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/o/free/var/vj14_offset_MASTER.png"
-       height="1509"
-       width="1073" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g4583"
-     layerid="element"
-     inkscape:label="SHOOT-000_UNROTATED"
-     style="display:none">
-    <image
-       y="-1079.5833"
-       x="-15.144903"
-       id="image4585"
-       xlink:href="file:///home/christoph/0000_Projekte/CON_VJ14/Artwork/131017--Tisch/Footage/IMG_6054.JPG"
-       height="1091.1293"
-       width="1636.6936"
-       transform="matrix(0,1,-1,0,0,0)" />
-  </g>
-  <g
-     style="display:none"
      inkscape:label="SHOOT-000"
      layerid="element"
      id="g4587"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../jpg/IMG_6054.JPG"
-       xlink:href="../jpg/IMG_6054.JPG"
+       
+       xlink:href="../../../i/free/jpg/IMG_6054.JPG"
        y="-15.144903"
        x="-11.546"
        id="image4589"

@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.23089192"
-     inkscape:cx="-226.68861"
-     inkscape:cy="628.73935"
+     inkscape:zoom="0.16769492"
+     inkscape:cx="291.43186"
+     inkscape:cy="566.1904"
      inkscape:document-units="px"
-     inkscape:current-layer="g4769"
+     inkscape:current-layer="g3355"
      showgrid="false"
      inkscape:window-width="1018"
      inkscape:window-height="709"
@@ -605,37 +605,19 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:groupmode="layer"
-     id="g4498"
-     layerid="element"
-     inkscape:label="XX_SLA_REFERENZ"
-     style="display:inline"
-     sodipodi:insensitive="true"
-     transform="translate(0,0.00131836)">
-    <image
-       y="0.44870001"
-       x="0"
-       id="image4580"
-       xlink:href="file:///home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/o/free/var/vj14_offset_MASTER.png"
-       height="1509"
-       width="1073" />
-  </g>
-  <g
      style="display:none"
      inkscape:label="XX_SHOOT-000"
      layerid="element"
      id="g4587"
      inkscape:groupmode="layer"
-     sodipodi:insensitive="true"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../jpg/IMG_6054.JPG"
-       xlink:href="../jpg/IMG_6054.JPG"
-       y="-15.144903"
-       x="-11.546"
-       id="image4589"
+       xlink:href="../../../i/free/jpg/IMG_6054.JPG"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image4589"
+       x="-11.546"
+       y="-15.144903" />
   </g>
   <g
      style="display:none;filter:url(#filter4111)"
@@ -645,14 +627,13 @@
      inkscape:groupmode="layer"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6031.png"
        xlink:href="../../../i/free/png/IMG_6031.png"
-       clip-path="url(#clipPath4107)"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image3200"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image3200"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="url(#clipPath4107)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -662,14 +643,13 @@
      style="display:none;filter:url(#filter4236)"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6033.png"
        xlink:href="../../../i/free/png/IMG_6033.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image3216"
-       x="-7.4765978"
+       clip-path="url(#clipPath4198)"
        y="-15.6491"
-       clip-path="url(#clipPath4198)" />
+       x="-7.4765978"
+       id="image3216"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      transform="translate(0,0.00131836)"
@@ -679,14 +659,13 @@
      id="g4146"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6033.png"
        xlink:href="../../../i/free/png/IMG_6033.png"
-       clip-path="url(#clipPath4220)"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image4148"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image4148"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="url(#clipPath4220)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -696,14 +675,13 @@
      style="display:none;filter:url(#filter4248)"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6033.png"
        xlink:href="../../../i/free/png/IMG_6033.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image4246"
-       x="-7.4765978"
+       clip-path="url(#clipPath4220)"
        y="-15.6491"
-       clip-path="url(#clipPath4220)" />
+       x="-7.4765978"
+       id="image4246"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      style="display:none"
@@ -713,14 +691,13 @@
      inkscape:groupmode="layer"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6042.png"
        xlink:href="../../../i/free/png/IMG_6042.png"
-       clip-path="url(#clipPath4296)"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image3224"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image3224"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="url(#clipPath4296)" />
   </g>
   <g
      transform="translate(0,0.00131836)"
@@ -730,14 +707,13 @@
      inkscape:label="TISCH-003"
      style="display:none;filter:url(#filter4351)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6042.png"
        xlink:href="../../../i/free/png/IMG_6042.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image4302"
-       x="-7.4765978"
+       clip-path="url(#clipPath4335)"
        y="-15.6491"
-       clip-path="url(#clipPath4335)" />
+       x="-7.4765978"
+       id="image4302"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      style="display:none;filter:url(#filter4359)"
@@ -747,14 +723,13 @@
      inkscape:groupmode="layer"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6042.png"
        xlink:href="../../../i/free/png/IMG_6042.png"
-       clip-path="url(#clipPath4335)"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image4357"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image4357"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="url(#clipPath4335)" />
   </g>
   <g
      style="display:none;filter:url(#filter4371)"
@@ -764,14 +739,13 @@
      inkscape:groupmode="layer"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6046.png"
        xlink:href="../../../i/free/png/IMG_6046.png"
-       clip-path="none"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image3240"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image3240"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="none" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -781,14 +755,13 @@
      style="display:none;filter:url(#filter4432)"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6049.png"
        xlink:href="../../../i/free/png/IMG_6049.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image3244"
-       x="-7.4765978"
+       clip-path="url(#clipPath4424)"
        y="-15.6491"
-       clip-path="url(#clipPath4424)" />
+       x="-7.4765978"
+       id="image3244"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -798,14 +771,13 @@
      style="display:none;filter:url(#filter4477)"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6023.png"
        xlink:href="../../../i/free/png/IMG_6023.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image4501"
-       x="-7.4765978"
+       clip-path="url(#clipPath4461)"
        y="-15.6491"
-       clip-path="url(#clipPath4461)" />
+       x="-7.4765978"
+       id="image4501"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      transform="translate(0,0.00131836)"
@@ -815,14 +787,13 @@
      id="g4481"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6023.png"
        xlink:href="../../../i/free/png/IMG_6023.png"
-       clip-path="url(#clipPath4500)"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image4483"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image4483"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="url(#clipPath4500)" />
   </g>
   <g
      style="display:none"
@@ -832,14 +803,13 @@
      inkscape:groupmode="layer"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6024.png"
        xlink:href="../../../i/free/png/IMG_6024.png"
-       clip-path="url(#clipPath4522)"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image3184"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image3184"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="url(#clipPath4522)" />
   </g>
   <g
      transform="translate(0,0.00131836)"
@@ -849,14 +819,13 @@
      inkscape:label="TELLER-002"
      style="display:none;filter:url(#filter4550)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6024.png"
        xlink:href="../../../i/free/png/IMG_6024.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image4528"
-       x="-7.4765978"
+       clip-path="url(#clipPath4522)"
        y="-15.6491"
-       clip-path="url(#clipPath4522)" />
+       x="-7.4765978"
+       id="image4528"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -866,14 +835,13 @@
      style="display:none"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6026.png"
        xlink:href="../../../i/free/png/IMG_6026.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image3188"
-       x="-7.4765978"
+       clip-path="url(#clipPath4572)"
        y="-15.6491"
-       clip-path="url(#clipPath4572)" />
+       x="-7.4765978"
+       id="image3188"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -883,14 +851,13 @@
      style="display:none"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6031.png"
        xlink:href="../../../i/free/png/IMG_6031.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image3196"
-       x="-7.4765978"
+       clip-path="url(#clipPath4587)"
        y="-15.6491"
-       clip-path="url(#clipPath4587)" />
+       x="-7.4765978"
+       id="image3196"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      transform="translate(0,0.00131836)"
@@ -900,14 +867,13 @@
      id="g4591"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6031.png"
        xlink:href="../../../i/free/png/IMG_6031.png"
-       clip-path="url(#clipPath4587)"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image4593"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image4593"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="url(#clipPath4587)" />
   </g>
   <g
      style="display:none"
@@ -917,14 +883,13 @@
      inkscape:groupmode="layer"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6033.png"
        xlink:href="../../../i/free/png/IMG_6033.png"
-       clip-path="url(#clipPath4692)"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image3204"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image3204"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="url(#clipPath4692)" />
   </g>
   <g
      transform="translate(0,0.00131836)"
@@ -934,14 +899,13 @@
      inkscape:label="TELLER-005"
      style="display:none;filter:url(#filter4696)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6033.png"
        xlink:href="../../../i/free/png/IMG_6033.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image4644"
-       x="-7.4765978"
+       clip-path="url(#clipPath4670)"
        y="-15.6491"
-       clip-path="url(#clipPath4670)" />
+       x="-7.4765978"
+       id="image4644"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      transform="translate(0,0.00131836)"
@@ -951,14 +915,13 @@
      inkscape:label="TELLER-005"
      style="display:none;filter:url(#filter4704)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6033.png"
        xlink:href="../../../i/free/png/IMG_6033.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image4702"
-       x="-7.4765978"
+       clip-path="url(#clipPath4692)"
        y="-15.6491"
-       clip-path="url(#clipPath4692)" />
+       x="-7.4765978"
+       id="image4702"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -968,14 +931,13 @@
      style="display:none;filter:url(#filter4765)"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6034.png"
        xlink:href="../../../i/free/png/IMG_6034.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image3208"
-       x="-7.4765978"
+       clip-path="url(#clipPath4761)"
        y="-15.6491"
-       clip-path="url(#clipPath4761)" />
+       x="-7.4765978"
+       id="image3208"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      transform="translate(0,0.00131836)"
@@ -985,14 +947,13 @@
      id="g4769"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6034.png"
        xlink:href="../../../i/free/png/IMG_6034.png"
-       clip-path="url(#clipPath4786)"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image4771"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image4771"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="url(#clipPath4786)" />
   </g>
   <g
      style="display:none;filter:url(#filter3420)"
@@ -1002,14 +963,13 @@
      inkscape:groupmode="layer"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6038.png"
        xlink:href="../../../i/free/png/IMG_6038.png"
-       clip-path="url(#clipPath3345)"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image3212"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image3212"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="url(#clipPath3345)" />
   </g>
   <g
      transform="translate(0,0.00131836)"
@@ -1019,14 +979,13 @@
      inkscape:label="TELLER-007"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6038.png"
        xlink:href="../../../i/free/png/IMG_6038.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image3351"
-       x="-7.4765978"
+       clip-path="url(#clipPath3416)"
        y="-15.6491"
-       clip-path="url(#clipPath3416)" />
+       x="-7.4765978"
+       id="image3351"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1036,14 +995,13 @@
      style="display:none;filter:url(#filter3466)"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6040.png"
        xlink:href="../../../i/free/png/IMG_6040.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image3220"
-       x="-7.4765978"
+       clip-path="url(#clipPath3458)"
        y="-15.6491"
-       clip-path="url(#clipPath3458)" />
+       x="-7.4765978"
+       id="image3220"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      transform="translate(0,0.00131836)"
@@ -1053,14 +1011,13 @@
      id="g3470"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6040.png"
        xlink:href="../../../i/free/png/IMG_6040.png"
-       clip-path="url(#clipPath3458)"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image3472"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image3472"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="url(#clipPath3458)" />
   </g>
   <g
      transform="translate(0,0.00131836)"
@@ -1070,16 +1027,15 @@
      inkscape:label="TELLER-009"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/jpg/IMG_6042.JPG"
        xlink:href="../../../i/free/jpg/IMG_6042.JPG"
-       width="1091.1293"
-       height="1636.6936"
-       id="image3224-9"
-       x="-7.4765978"
-       y="-15.6491"
-       clip-path="url(#clipPath4296-8)"
+       transform="translate(0,1.6418751e-6)"
        style="display:inline;enable-background:new"
-       transform="translate(0,1.6418751e-6)" />
+       clip-path="url(#clipPath4296-8)"
+       y="-15.6491"
+       x="-7.4765978"
+       id="image3224-9"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      style="display:none;filter:url(#filter3506)"
@@ -1089,14 +1045,13 @@
      inkscape:groupmode="layer"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6042.png"
        xlink:href="../../../i/free/png/IMG_6042.png"
-       clip-path="url(#clipPath3528)"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image3228"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image3228"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="url(#clipPath3528)" />
   </g>
   <g
      transform="translate(0,0.00131836)"
@@ -1106,14 +1061,13 @@
      inkscape:label="TELLER-009"
      style="display:none;filter:url(#filter3540)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6042.png"
        xlink:href="../../../i/free/png/IMG_6042.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image3534"
-       x="-7.4765978"
+       clip-path="url(#clipPath3528)"
        y="-15.6491"
-       clip-path="url(#clipPath3528)" />
+       x="-7.4765978"
+       id="image3534"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1123,14 +1077,13 @@
      style="display:none;filter:url(#filter3594)"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6045.png"
        xlink:href="../../../i/free/png/IMG_6045.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image3232"
-       x="-7.4765978"
+       clip-path="url(#clipPath3590)"
        y="-15.6491"
-       clip-path="url(#clipPath3590)" />
+       x="-7.4765978"
+       id="image3232"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      transform="translate(0,0.00131836)"
@@ -1140,14 +1093,13 @@
      id="g3598"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6045.png"
        xlink:href="../../../i/free/png/IMG_6045.png"
-       clip-path="url(#clipPath3634)"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image3600"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image3600"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="url(#clipPath3634)" />
   </g>
   <g
      transform="translate(0,0.00131836)"
@@ -1157,14 +1109,13 @@
      id="g3359"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6045.png"
        xlink:href="../../../i/free/png/IMG_6045.png"
-       clip-path="url(#clipPath3590)"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image3361"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image3361"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="url(#clipPath3590)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1174,14 +1125,13 @@
      style="display:inline;filter:url(#filter3363)"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6045.png"
        xlink:href="../../../i/free/png/IMG_6045.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image3357"
-       x="-7.4765978"
+       clip-path="url(#clipPath3634)"
        y="-15.6491"
-       clip-path="url(#clipPath3634)" />
+       x="-7.4765978"
+       id="image3357"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      style="display:none;filter:url(#filter3638)"
@@ -1191,14 +1141,13 @@
      inkscape:groupmode="layer"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6047.png"
        xlink:href="../../../i/free/png/IMG_6047.png"
-       clip-path="none"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image3236"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image3236"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="none" />
   </g>
   <g
      transform="translate(0,0.00131836)"
@@ -1208,14 +1157,13 @@
      inkscape:label="XX_TELLER-011"
      style="display:none;filter:url(#filter3668)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6047.png"
        xlink:href="../../../i/free/png/IMG_6047.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image3644"
-       x="-7.4765978"
+       clip-path="url(#clipPath3652)"
        y="-15.6491"
-       clip-path="url(#clipPath3652)" />
+       x="-7.4765978"
+       id="image3644"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      style="display:none"
@@ -1225,14 +1173,13 @@
      inkscape:groupmode="layer"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6047.png"
        xlink:href="../../../i/free/png/IMG_6047.png"
-       clip-path="url(#clipPath3652)"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image3658"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image3658"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="url(#clipPath3652)" />
   </g>
   <g
      transform="translate(0,0.00131836)"
@@ -1242,14 +1189,13 @@
      inkscape:label="TISCH-011"
      style="display:none;filter:url(#filter3638)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6047.png"
        xlink:href="../../../i/free/png/IMG_6047.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image3353"
-       x="-7.4765978"
+       clip-path="none"
        y="-15.6491"
-       clip-path="none" />
+       x="-7.4765978"
+       id="image3353"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      transform="translate(0,0.00131836)"
@@ -1259,14 +1205,13 @@
      inkscape:label="TISCH-011"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6047.png"
        xlink:href="../../../i/free/png/IMG_6047.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image3349"
-       x="-7.4765978"
+       clip-path="url(#clipPath3652)"
        y="-15.6491"
-       clip-path="url(#clipPath3652)" />
+       x="-7.4765978"
+       id="image3349"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1276,14 +1221,13 @@
      style="display:none;filter:url(#filter3725)"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6051.png"
        xlink:href="../../../i/free/png/IMG_6051.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image3248"
-       x="-7.4765978"
+       clip-path="url(#clipPath3709)"
        y="-15.6491"
-       clip-path="url(#clipPath3709)" />
+       x="-7.4765978"
+       id="image3248"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      style="display:none;filter:url(#filter3733)"
@@ -1293,14 +1237,13 @@
      inkscape:groupmode="layer"
      transform="translate(0,0.00131836)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6029.png"
        xlink:href="../../../i/free/png/IMG_6029.png"
-       clip-path="none"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image3192"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image3192"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="none" />
   </g>
   <g
      style="display:none"

@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.17867279"
-     inkscape:cx="-217.41358"
-     inkscape:cy="732.01909"
+     inkscape:zoom="0.24729486"
+     inkscape:cx="245.26694"
+     inkscape:cy="706.85792"
      inkscape:document-units="px"
      inkscape:current-layer="g3946"
      showgrid="false"
@@ -186,21 +186,6 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:groupmode="layer"
-     id="g4498"
-     layerid="element"
-     inkscape:label="XX_SLA_REFERENZ"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <image
-       y="0.44870001"
-       x="0"
-       id="image4580"
-       xlink:href="file:///home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/o/free/var/vj14_offset_MASTER.png"
-       height="1509"
-       width="1073" />
-  </g>
-  <g
      style="display:none"
      inkscape:label="XX_SHOOT-000"
      layerid="element"
@@ -208,29 +193,29 @@
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../jpg/IMG_6054.JPG"
-       xlink:href="../jpg/IMG_6054.JPG"
-       y="-15.144903"
-       x="-11.546"
-       id="image4589"
+       
+       xlink:href="../../../i/free/jpg/IMG_6054.JPG"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image4589"
+       x="-11.546"
+       y="-15.144903" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="g4499"
      layerid="element"
      inkscape:label="TELLER-001"
-     style="display:inline;filter:url(#filter3844)">
+     style="display:none;filter:url(#filter3844)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6013.png"
+       
        xlink:href="../../../i/free/png/IMG_6013.png"
-       width="1091.1293"
-       height="1636.6936"
-       id="image4501"
-       x="-7.4765978"
+       clip-path="url(#clipPath3751)"
        y="-15.6491"
-       clip-path="url(#clipPath3751)" />
+       x="-7.4765978"
+       id="image4501"
+       height="1636.6936"
+       width="1091.1293" />
   </g>
   <g
      style="display:none"
@@ -239,31 +224,31 @@
      id="g3848"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6013.png"
+       
        xlink:href="../../../i/free/png/IMG_6013.png"
-       clip-path="url(#clipPath3751)"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image3850"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image3850"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="url(#clipPath3751)" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="g3852"
      layerid="element"
      inkscape:label="TELLER-003"
-     style="display:none;filter:url(#filter3942)">
+     style="display:inline;filter:url(#filter3942)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6013.png"
+       
        xlink:href="../../../i/free/png/IMG_6013.png"
-       transform="matrix(-0.25724489,0.96634625,-0.96634625,-0.25724489,1017.9014,102.87856)"
-       width="1091.1293"
-       height="1636.6936"
-       id="image3854"
-       x="-7.4765978"
+       clip-path="url(#clipPath3751)"
        y="-15.6491"
-       clip-path="url(#clipPath3751)" />
+       x="-7.4765978"
+       id="image3854"
+       height="1636.6936"
+       width="1091.1293"
+       transform="matrix(-0.25724489,0.96634625,-0.96634625,-0.25724489,1017.9014,102.87856)" />
   </g>
   <g
      style="display:none"
@@ -285,49 +270,49 @@
      inkscape:label="TISCH-002"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6019.png"
-       xlink:href="../../../i/free/png/IMG_6019.png"
-       style="display:inline;enable-background:new"
-       clip-path="url(#clipPath3899)"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image4501-7"
-       height="1636.6936"
-       width="1091.1293" />
-  </g>
-  <g
-     style="display:none;filter:url(#filter3907)"
-     inkscape:label="TISCH-003"
-     layerid="element"
-     id="g3903"
-     inkscape:groupmode="layer">
-    <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6019.png"
+       
        xlink:href="../../../i/free/png/IMG_6019.png"
        width="1091.1293"
        height="1636.6936"
-       id="image3905"
+       id="image4501-7"
        x="-7.4765978"
        y="-15.6491"
        clip-path="url(#clipPath3899)"
        style="display:inline;enable-background:new" />
   </g>
   <g
+     style="display:inline;filter:url(#filter3907)"
+     inkscape:label="TISCH-003"
+     layerid="element"
+     id="g3903"
+     inkscape:groupmode="layer">
+    <image
+       
+       xlink:href="../../../i/free/png/IMG_6019.png"
+       style="display:inline;enable-background:new"
+       clip-path="url(#clipPath3899)"
+       y="-15.6491"
+       x="-7.4765978"
+       id="image3905"
+       height="1636.6936"
+       width="1091.1293" />
+  </g>
+  <g
      inkscape:groupmode="layer"
      id="g3911"
      layerid="element"
      inkscape:label="TISCH-003"
-     style="display:none;filter:url(#filter3921)">
+     style="display:inline;filter:url(#filter3921)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/IMG_6019.png"
+       
        xlink:href="../../../i/free/png/IMG_6019.png"
-       style="display:inline;enable-background:new"
-       clip-path="url(#clipPath3917)"
-       y="-15.6491"
-       x="-7.4765978"
-       id="image3913"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image3913"
+       x="-7.4765978"
+       y="-15.6491"
+       clip-path="url(#clipPath3917)"
+       style="display:inline;enable-background:new" />
   </g>
   <g
      style="display:none;filter:url(#filter3942)"

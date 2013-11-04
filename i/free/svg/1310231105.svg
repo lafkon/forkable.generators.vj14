@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.19374422"
-     inkscape:cx="-154.76007"
-     inkscape:cy="1328.0418"
+     inkscape:zoom="0.087485278"
+     inkscape:cx="-986.0037"
+     inkscape:cy="593.02071"
      inkscape:document-units="px"
-     inkscape:current-layer="g4499"
+     inkscape:current-layer="g3776"
      showgrid="false"
      inkscape:window-width="1018"
      inkscape:window-height="709"
@@ -189,21 +189,6 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:groupmode="layer"
-     id="g4498"
-     layerid="element"
-     inkscape:label="XX_SLA_REFERENZ"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <image
-       y="0.44870001"
-       x="0"
-       id="image4580"
-       xlink:href="file:///home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/o/free/var/vj14_offset_MASTER.png"
-       height="1509"
-       width="1073" />
-  </g>
-  <g
      style="display:none"
      inkscape:label="XX_SHOOT-000"
      layerid="element"
@@ -211,13 +196,13 @@
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../jpg/IMG_6054.JPG"
-       xlink:href="../jpg/IMG_6054.JPG"
-       y="-15.144903"
-       x="-11.546"
-       id="image4589"
+       
+       xlink:href="../../../i/free/jpg/IMG_6054.JPG"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image4589"
+       x="-11.546"
+       y="-15.144903" />
   </g>
   <g
      style="display:none"
@@ -226,32 +211,32 @@
      id="g4643"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/Pigeon_Messengers_Harpers_Engraving_MOD.png"
+       
        xlink:href="../../../i/free/png/Pigeon_Messengers_Harpers_Engraving_MOD.png"
-       clip-path="url(#clipPath3769)"
-       y="0"
-       x="0"
-       id="image4645"
+       width="2417"
        height="1904"
-       width="2417" />
+       id="image4645"
+       x="0"
+       y="0"
+       clip-path="url(#clipPath3769)" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="g4499"
      layerid="element"
      inkscape:label="TELLER-001"
-     style="display:inline;filter:url(#filter3763)">
+     style="display:none;filter:url(#filter3763)">
     <image
-       width="2417"
-       height="1904"
-       id="image4645-5"
-       x="0"
-       y="0"
-       clip-path="url(#clipPath3875)"
-       style="display:inline;enable-background:new"
+       
+       xlink:href="../../../i/free/png/Pigeon_Messengers_Harpers_Engraving_MOD.png"
        transform="matrix(0.44508035,0.13453376,-0.13453376,0.44508035,7.4052877,-191.06949)"
-       xlink:href="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/Pigeon_Messengers_Harpers_Engraving_MOD.png"
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/Pigeon_Messengers_Harpers_Engraving_MOD.png" />
+       style="display:inline;enable-background:new"
+       clip-path="url(#clipPath3875)"
+       y="0"
+       x="0"
+       id="image4645-5"
+       height="1904"
+       width="2417" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -260,16 +245,16 @@
      inkscape:label="TELLER-002"
      style="display:none;filter:url(#filter4741)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/Pigeon_Messengers_Harpers_Engraving_MOD.png"
+       
        xlink:href="../../../i/free/png/Pigeon_Messengers_Harpers_Engraving_MOD.png"
-       transform="matrix(-0.08772401,0.51999678,-0.51999678,-0.08772401,1204.3818,279.29461)"
-       width="2417"
-       height="1904"
-       id="image4758-0"
-       x="0"
-       y="0"
+       style="display:inline;filter:url(#filter4771);enable-background:new"
        clip-path="url(#clipPath4701-5)"
-       style="display:inline;filter:url(#filter4771);enable-background:new" />
+       y="0"
+       x="0"
+       id="image4758-0"
+       height="1904"
+       width="2417"
+       transform="matrix(-0.08772401,0.51999678,-0.51999678,-0.08772401,1204.3818,279.29461)" />
   </g>
   <g
      style="display:none;filter:url(#filter4771)"
@@ -278,15 +263,15 @@
      id="g4756"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/Pigeon_Messengers_Harpers_Engraving_MOD.png"
+       
        xlink:href="../../../i/free/png/Pigeon_Messengers_Harpers_Engraving_MOD.png"
-       clip-path="url(#clipPath4840)"
-       y="0"
-       x="0"
-       id="image4758"
-       height="1904"
+       transform="matrix(-0.08772401,0.51999678,-0.51999678,-0.08772401,1204.3818,279.29463)"
        width="2417"
-       transform="matrix(-0.08772401,0.51999678,-0.51999678,-0.08772401,1204.3818,279.29463)" />
+       height="1904"
+       id="image4758"
+       x="0"
+       y="0"
+       clip-path="url(#clipPath4840)" />
   </g>
   <g
      style="display:inline"
@@ -295,14 +280,14 @@
      id="g3776"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/jpg/IMG_6015.JPG"
+       
        xlink:href="../../../i/free/jpg/IMG_6015.JPG"
-       clip-path="url(#clipPath3800)"
-       y="-16.55913"
-       x="-6.8699117"
-       id="image3778"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image3778"
+       x="-6.8699117"
+       y="-16.55913"
+       clip-path="url(#clipPath3800)" />
   </g>
   <g
      style="display:none"
@@ -1089,7 +1074,7 @@
      id="g3697"
      layerid="element"
      inkscape:label="XX_RAHMEN-001"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        style="color:#000000;fill:#ffffff;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"

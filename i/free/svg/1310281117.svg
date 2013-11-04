@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.46668176"
-     inkscape:cx="579.69716"
-     inkscape:cy="979.65581"
+     inkscape:zoom="0.23379309"
+     inkscape:cx="-340.53794"
+     inkscape:cy="691.46754"
      inkscape:document-units="px"
      inkscape:current-layer="g3384"
      showgrid="false"
@@ -222,36 +222,20 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:groupmode="layer"
-     id="g4498"
-     layerid="element"
-     inkscape:label="XX_SLA_REFERENZ"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <image
-       y="0.44870001"
-       x="0"
-       id="image4580"
-       xlink:href="file:///home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/o/free/var/vj14_offset_MASTER.png"
-       height="1509"
-       width="1073" />
-  </g>
-  <g
      style="display:none"
      inkscape:label="XX_SHOOT-000"
      layerid="element"
      id="g4587"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../jpg/IMG_6054.JPG"
-       xlink:href="../jpg/IMG_6054.JPG"
-       clip-path="none"
-       y="-15.144903"
-       x="-11.546"
-       id="image4589"
+       
+       xlink:href="../../../i/free/jpg/IMG_6054.JPG"
+       width="1091.1293"
        height="1636.6936"
-       width="1091.1293" />
+       id="image4589"
+       x="-11.546"
+       y="-15.144903"
+       clip-path="none" />
   </g>
   <g
      style="display:none;filter:url(#filter3372)"
@@ -260,14 +244,14 @@
      id="g3316"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/Francois_Barraud_-_La_Tailleuse_de_Soupe.png"
+       
        xlink:href="../../../i/free/png/Francois_Barraud_-_La_Tailleuse_de_Soupe.png"
-       width="746.91187"
-       height="712.86151"
-       id="image3318"
-       x="79.320068"
+       clip-path="url(#clipPath3368)"
        y="99.207153"
-       clip-path="url(#clipPath3368)" />
+       x="79.320068"
+       id="image3318"
+       height="712.86151"
+       width="746.91187" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -276,30 +260,30 @@
      inkscape:label="TELLER-010"
      style="display:none">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/png/Francois_Barraud_-_La_Tailleuse_de_Soupe.png"
+       
        xlink:href="../../../i/free/png/Francois_Barraud_-_La_Tailleuse_de_Soupe.png"
-       y="99.207153"
-       x="79.320068"
-       id="image3295"
-       height="712.86151"
+       clip-path="url(#clipPath3322)"
        width="746.91187"
-       clip-path="url(#clipPath3322)" />
+       height="712.86151"
+       id="image3295"
+       x="79.320068"
+       y="99.207153" />
   </g>
   <g
-     style="display:inline;filter:url(#filter3302)"
+     style="display:none;filter:url(#filter3302)"
      inkscape:label="TELLER-020"
      layerid="element"
      id="g3195"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/jpg/Opposed_to_suffrage.jpg"
+       
        xlink:href="../../../i/free/jpg/Opposed_to_suffrage.jpg"
-       clip-path="url(#clipPath3380)"
-       width="1024"
-       height="827"
-       id="image3293"
+       y="13.034594"
        x="8.4707804"
-       y="13.034594" />
+       id="image3293"
+       height="827"
+       width="1024"
+       clip-path="url(#clipPath3380)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -308,14 +292,14 @@
      inkscape:label="TELLER-020"
      style="display:inline;filter:url(#filter3302)">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/jpg/Opposed_to_suffrage.jpg"
+       
        xlink:href="../../../i/free/jpg/Opposed_to_suffrage.jpg"
-       y="13.034594"
-       x="8.4707804"
-       id="image3308"
-       height="827"
+       clip-path="url(#clipPath3367)"
        width="1024"
-       clip-path="url(#clipPath3367)" />
+       height="827"
+       id="image3308"
+       x="8.4707804"
+       y="13.034594" />
   </g>
   <g
      style="display:inline;filter:url(#filter3314)"
@@ -324,14 +308,14 @@
      id="g3310"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/jpg/Opposed_to_suffrage.jpg"
+       
        xlink:href="../../../i/free/jpg/Opposed_to_suffrage.jpg"
-       clip-path="url(#clipPath3342)"
-       width="1024"
-       height="827"
-       id="image3312"
+       y="13.034594"
        x="8.4707804"
-       y="13.034594" />
+       id="image3312"
+       height="827"
+       width="1024"
+       clip-path="url(#clipPath3342)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -340,14 +324,14 @@
      inkscape:label="TELLER-020"
      style="display:inline">
     <image
-       sodipodi:absref="/home/christoph/0000_Projekte/CON_VJ14/FORKABLE/GIT/i/free/svg/../../../i/free/jpg/Opposed_to_suffrage.jpg"
+       
        xlink:href="../../../i/free/jpg/Opposed_to_suffrage.jpg"
-       y="13.034594"
-       x="8.4707804"
-       id="image3386"
-       height="827"
+       clip-path="url(#clipPath3430)"
        width="1024"
-       clip-path="url(#clipPath3430)" />
+       height="827"
+       id="image3386"
+       x="8.4707804"
+       y="13.034594" />
   </g>
   <g
      style="display:none"
@@ -1134,7 +1118,8 @@
      id="g3697"
      layerid="element"
      inkscape:label="XX_RAHMEN-001"
-     style="display:none">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="color:#000000;fill:#ffffff;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m -325.78125,-365.93841 0,2241.31251 1725.18745,0 0,-2241.31251 z M 10.625,10.624088 l 1052.375,0 0,1488.187512 -1052.375,0 z"
