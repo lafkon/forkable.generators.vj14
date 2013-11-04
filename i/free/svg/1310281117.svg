@@ -100,33 +100,6 @@
          d="m 0,0 2097.64,0 0,935 L 0,935 0,0 z"
          id="path20" />
     </clipPath>
-    <filter
-       inkscape:collect="always"
-       id="filter3868">
-      <feBlend
-         inkscape:collect="always"
-         mode="multiply"
-         in2="BackgroundImage"
-         id="feBlend3870" />
-    </filter>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3934">
-      <path
-         inkscape:connector-curvature="0"
-         style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:25;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3868);enable-background:accumulate"
-         d="m -12.733431,-16.011961 0,1636.718761 1091.125231,0 0,-421.2813 c -7.256,0.5118 -14.5506,0.8125 -21.9376,0.8125 -68.4592,0 -127.46364,-19.221 -177.34384,-54.2813 -81.48834,-57.2775 -129.39432,-147.57857 -128.90629,-250.49987 0.35652,-75.18718 28.37756,-147.35987 75.75,-202.81254 53.24279,-62.32428 139.43409,-106.06821 230.50013,-106.78125 7.3841,-0.0578 14.6843,0.14387 21.9376,0.625 l 0,-602.500001 -1091.125231,0 z"
-         id="path3936" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3978">
-      <path
-         style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 807.08802,443.63006 c 0,186.90345 -151.52623,338.41865 -338.4433,338.41865 -186.91706,0 -338.44328,-151.5152 -338.44328,-338.41865 0,-186.90344 151.52622,-338.41863 338.44328,-338.41863 186.91707,0 338.4433,151.51519 338.4433,338.41863 z"
-         id="path3980"
-         inkscape:connector-curvature="0" />
-    </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3322">
@@ -228,7 +201,6 @@
      id="g4587"
      inkscape:groupmode="layer">
     <image
-       
        xlink:href="../../../i/free/jpg/IMG_6054.JPG"
        width="1091.1293"
        height="1636.6936"
@@ -244,7 +216,6 @@
      id="g3316"
      inkscape:groupmode="layer">
     <image
-       
        xlink:href="../../../i/free/png/Francois_Barraud_-_La_Tailleuse_de_Soupe.png"
        clip-path="url(#clipPath3368)"
        y="99.207153"
@@ -260,7 +231,6 @@
      inkscape:label="TELLER-010"
      style="display:none">
     <image
-       
        xlink:href="../../../i/free/png/Francois_Barraud_-_La_Tailleuse_de_Soupe.png"
        clip-path="url(#clipPath3322)"
        width="746.91187"
@@ -276,7 +246,6 @@
      id="g3195"
      inkscape:groupmode="layer">
     <image
-       
        xlink:href="../../../i/free/jpg/Opposed_to_suffrage.jpg"
        y="13.034594"
        x="8.4707804"
@@ -292,7 +261,6 @@
      inkscape:label="TELLER-020"
      style="display:inline;filter:url(#filter3302)">
     <image
-       
        xlink:href="../../../i/free/jpg/Opposed_to_suffrage.jpg"
        clip-path="url(#clipPath3367)"
        width="1024"
@@ -308,7 +276,6 @@
      id="g3310"
      inkscape:groupmode="layer">
     <image
-       
        xlink:href="../../../i/free/jpg/Opposed_to_suffrage.jpg"
        y="13.034594"
        x="8.4707804"
@@ -324,7 +291,6 @@
      inkscape:label="TELLER-020"
      style="display:inline">
     <image
-       
        xlink:href="../../../i/free/jpg/Opposed_to_suffrage.jpg"
        clip-path="url(#clipPath3430)"
        width="1024"

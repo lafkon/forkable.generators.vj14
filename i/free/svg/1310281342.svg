@@ -102,25 +102,6 @@
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath4579">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4581"
-         d="m 1363.8782,896.32002 c 0,168.31768 -137.1071,304.76608 -306.2375,304.76608 -68.45924,0 -127.46229,-19.2206 -177.34253,-54.2809 -81.4883,-57.2775 -129.38288,-147.56379 -128.89485,-250.48518 0.35652,-75.18714 28.36532,-147.3688 75.73776,-202.82147 53.24275,-62.32428 139.43365,-106.08073 230.49962,-106.79377 169.1252,-1.32424 306.2375,141.29761 306.2375,309.61524 z"
-         style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:nodetypes="sssssss" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3837">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3839"
-         d="m -10.78125,-19.875 0,1549.1875 1095.18745,0 0,-329.4063 c -8.827,0.7613 -17.7245,1.1876 -26.75,1.1876 -68.45919,0 -127.46346,-19.221 -177.3437,-54.2813 -81.4883,-57.2775 -129.39428,-147.57861 -128.90625,-250.5 0.35652,-75.18714 28.37756,-147.35983 75.75,-202.8125 53.24275,-62.32428 139.43403,-106.06821 230.49995,-106.78125 9.0162,-0.0706 17.9318,0.23907 26.75,0.96875 l 0,-607.5625 -1095.18745,0 z"
-         style="color:#000000;fill:#ff0000;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
        id="clipPath4107">
       <path
          style="opacity:0.5;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
