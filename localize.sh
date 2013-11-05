@@ -9,7 +9,7 @@
                 rev`
 
       cd $FILEPATH
-      echo `cat \`basename $DWNLD\` | shuf -n 1`
+      wget `cat \`basename $DWNLD\` | shuf -n 1`
       cd -
 
  done
