@@ -12,12 +12,13 @@
 
        DWNLDURL=`cat \`basename $DWNLD\` | \
                  shuf -n 1`
-      DWNLDFILE=`echo $DWNLDURL | \
+      DWNLDFILE=`echo $DWNLD | \
                  rev | \
                  cut -d "/" -f 1 | \
                  rev`
 
-      if [ ! -f $DWNLDFILE ]; then
+#     if [ ! -f $DWNLDFILE ]; then
+      if [ `ls ${DWNLDFILE%%.*}.* | wc -l` -le 1 ]; then
 
        while [ `curl --silent --head "$DWNLDURL" | \
                 grep HTTP | grep 200 | wc -l` -lt 1 ];
@@ -34,6 +35,7 @@
       fi
 
       cd - > /dev/null
+      echo
 
  done
 
