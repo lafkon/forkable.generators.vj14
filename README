@@ -1,2 +1,18 @@
  
- poster generator for Verbindingen/Jonctions 2013
+ Poster generator for Verbindingen/Jonctions 2013
+ ------------------------------------------------
+ Together with Maria Guggenbichler
+
+
+ https://github.com/lafkon/forkable.generators.vj14
+
+ To initiate the repository execute localize.sh 
+ -> download files that were excluded from the
+    repository because of file size
+
+ bake.sh:      generate svg combinations from 
+               i/free/svg into o/free/svg
+
+ svg2print.sh: generate print ready jpg files into 
+               o/free/PRINT
+
